@@ -187,7 +187,7 @@ Osteoporosis-Risk-Prediction/
 A full project walkthrough demonstrating the workflow, models, and clinical decision support system is available here:
 
 📺 **Project Walkthrough Video:**  
-👉 *(Insert your video link here)*
+ *https://youtu.be/xDSYtAoX2VQ*
 
 > This includes:
 > - Overview of dataset and preprocessing  
@@ -235,7 +235,7 @@ Disorders, vol. 25, 991, 2024.
 
 
 ## Contributors
-Mary Nnipaa Meteku
+Mary Nnipaa Meteku & Syllas Otutey
 
 Instructor: Dr. Guy Hembroff
 
