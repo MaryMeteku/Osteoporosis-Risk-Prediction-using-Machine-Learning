@@ -229,9 +229,10 @@ arXiv:1901.04592, 2019.
 learning models for osteoporosis risk prediction,” Frontiers in Artificial
 Intelligence, vol. 7, 1355287, 2024.
 
-[8] F. Amani et al., “Diagnostic accuracy of deep learning in prediction
-of osteoporosis: A systematic review and meta-analysis,” BMC Musculoskeletal
-Disorders, vol. 25, 991, 2024.
+[8] *https://www.kaggle.com/datasets/amitvkulkarni/
+lifestyle-factors-influencing-osteoporosis*
+
+
 
 
 ## Contributors
